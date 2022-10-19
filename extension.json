@@ -1,0 +1,13 @@
+{
+  "id": "builtin.language-basics-svelte",
+  "version": "0.0.0-dev",
+  "name": "Language Basics Svelte",
+  "description": "Provides syntax highlighting and bracket matching in Svelte files.",
+  "languages": [
+    {
+      "id": "svelte",
+      "extensions": [".svelte"],
+      "tokenize": "src/tokenizeSvelte.js"
+    }
+  ]
+}
