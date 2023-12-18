@@ -20,7 +20,8 @@ PunctuationTag
 TagName
 Whitespace
 AttributeName
-Text
+Punctuation
+String
 PunctuationTag
 NewLine
 Text
