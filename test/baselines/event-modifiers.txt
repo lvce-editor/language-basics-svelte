@@ -17,7 +17,8 @@ PunctuationTag
 TagName
 Whitespace
 AttributeName
-Text
+Punctuation
+String
 PunctuationTag
 Text
 PunctuationTag
