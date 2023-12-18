@@ -8,6 +8,7 @@ String
 PunctuationString
 Whitespace
 AttributeName
-Text
+Punctuation
+String
 PunctuationTag
 NewLine
