@@ -6,8 +6,11 @@
   "languages": [
     {
       "id": "svelte",
-      "extensions": [".svelte"],
+      "extensions": [
+        ".svelte"
+      ],
       "tokenize": "src/tokenizeSvelte.js"
     }
-  ]
+  ],
+  "repository": "https://github.com/lvce-editor/language-basics-svelte"
 }
